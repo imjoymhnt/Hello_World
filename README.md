@@ -1,2 +1,2 @@
-# Hello_World
-This is for the guide.github.com hello world guide.
+Hello Humans,
+  I'm Mritunjoy Mahanta, basically known as imjoymhnt. Right now I'm learning how to use git from the guide.github.com/activities/hello-world/
